@@ -115,7 +115,7 @@ def remove_alpha(word):
 
 
 
-'''10. Define a function named normalize_name. It should accept a str+ing and return a valid python identifier, that is:
+'''10. Define a function named normalize_name. It should accept a string and return a valid python identifier, that is:
 anything that is not a valid python identifier should be removed
 leading and trailing whitespace should be removed
 everything should be lowercase
